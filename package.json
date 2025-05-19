@@ -2,9 +2,9 @@
 {
   "name": "eduquest-backend",
   "version": "1.0.0",
-  "main": "src/server.cjs",
+  "main": "server.cjs",
   "scripts": {
-    "start": "node src/server.cjs"
+    "start": "node server.cjs"
   },
   "dependencies": {
     "express": "^4.18.2",
